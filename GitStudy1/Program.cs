@@ -12,6 +12,7 @@ namespace GitStudy1 {
             Console.ReadLine();
             // This comment should only exist in the support_20180203 branch
             // Once again this should only appear in the same branch
+            // Another line to see diffing
         }
     }
 }
