@@ -8,5 +8,6 @@ namespace GitStudy1 {
     class Class1 {
 
         // This is another test how to use Github
+        // Can I check this out (update)?
     }
 }
